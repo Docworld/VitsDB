@@ -14,7 +14,8 @@
 *
 *****************************************************************/
 
-import_request_variables('GP');
+extract($_GET);
+extract($_POST);
 
 // system db
 $db = null;
