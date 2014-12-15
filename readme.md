@@ -9,11 +9,3 @@ The application does not need connection to any database and uses Ajax on client
 ## Configuration
 
 In the root directory you will find conf.php that has basic configuration of users and databaseses it can access.
-
-## Demo
-
-You can see the demo of the application at 
-
-* [http://web20boom.com/demo/pgadmin](http://web20boom.com/demo/pgadmin)
-* User: demo 
-* pass: demo
